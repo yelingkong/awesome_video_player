@@ -736,7 +736,7 @@ class _AwsomeVideoPlayerState extends State<AwsomeVideoPlayer>
               child: Container(
             width: double.infinity,
             height: double.infinity,
-            color: Colors.black,
+            color: Color(0xFF319392),
             child: Center(
                 child: AspectRatio(
               aspectRatio: controller.value.aspectRatio,
